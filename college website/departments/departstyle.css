@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(240, 202, 107);
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+p{
+    -left: 30px;
+}
+
+nav{
+    background-color:black;
+    text-align: center;
+}
+
+ul{
+    display: inline-flex;
+    list-style: none;
+}
+
+li{
+    margin: 15px;
+}
+
+nav a{
+    color: #fff;
+}
+
+nav a:hover {
+    background: red;
+    text-transform: uppercase;
+}
+
+
+
+.rbottom{
+   text-align: right;
+}
+.lbottom{
+    text-align: left;
+}
+.rbottom, a{
+    color: black;
+}
