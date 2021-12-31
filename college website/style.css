@@ -38,7 +38,8 @@ nav a:hover {
 }
 
 .details{
-    padding-left:35%;
+    /* padding-left:35%; */
+    text-align: center;
 }
 form{
     text-align: center;
@@ -58,4 +59,10 @@ legend{
 }
 .gallery{
     text-align: center;
+}
+#carrer{
+    text-align: left;
+}
+h3{
+    color: blueviolet;
 }
